@@ -33,8 +33,8 @@ Steps
 
 Clone the repository or download the project as a .zip file.
 git clone https://github.com/1117DataStock/slimy-spaceship-2d.git
-Open the project in Unity.
-Press Play in the Unity Editor to start the game.
+Open the application named as Slimy Spaceship2D. 
+Start the game.
 
 Controls In-Game
 
